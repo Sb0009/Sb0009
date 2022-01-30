@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @Sb0009 
-- 👀 I’m interested about a traineeship of 3 months
+- 👀 I’m interested about a professional internship of 3 months
 - 🌱 MY goal is to become a great software engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 sihambadyine@gmail.com
 
-<!---
-Sb0009/Sb0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 My curriculums
