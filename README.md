@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sb0009 
 - 👀 I’m interested about a professional internship of 3 months
 - 🌱 MY goal is to become a great software engineer 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 sihambadyine@gmail.com
 
 
