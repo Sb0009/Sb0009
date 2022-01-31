@@ -16,7 +16,7 @@ Professional Development will be a key supplement of this primary goal.
 At the conclusion of Foundations, I will have acquired a strong foundation of technical knowledge from which I can either build upon with a Specialization
 or begin preparing for interviews and jobs as part of Holberton’s interview prep, Career Sprint.
 
-Dont forget ;sky is not the Limit
+Dont forget ; Sky is not the Limit
 ![moss](https://user-images.githubusercontent.com/96126445/151833417-540abcd5-6971-45c6-8df6-91b53a2617b6.png)
 
 
