@@ -17,5 +17,6 @@ At the conclusion of Foundations, I will have acquired a strong foundation of te
 or begin preparing for interviews and jobs as part of Holberton’s interview prep, Career Sprint.
 
 
+![moss](https://user-images.githubusercontent.com/96126445/151833417-540abcd5-6971-45c6-8df6-91b53a2617b6.png)
 
 
