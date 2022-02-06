@@ -22,6 +22,7 @@ At the conclusion of Foundations, I will have acquired a strong foundation of te
 or begin preparing for interviews and jobs as part of Holberton’s interview prep, Career Sprint.
 
 Dont forget ; Sky is not the Limit
-![moss](https://user-images.githubusercontent.com/96126445/151833417-540abcd5-6971-45c6-8df6-91b53a2617b6.png)
+![sr-71](https://user-images.githubusercontent.com/96126445/152688900-e0dd9dd4-18c5-435e-b524-15b0b28377cb.jpg)
+
 
 
