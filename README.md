@@ -1,3 +1,4 @@
+![sr_71_000_132](https://user-images.githubusercontent.com/96126445/153769774-08daa072-d8b0-4394-ae18-b3ff51b6591e.gif)
 - 👋 Hi, I’m @Sb0009 
 - 👀 I’m interested about a professional internship 
 - 🌱 MY goal is to become a great software engineer 
@@ -22,6 +23,7 @@ At the conclusion of Foundations, I will have acquired a strong foundation of te
 or begin preparing for interviews and jobs as part of Holberton’s interview prep, Career Sprint.
 
 Dont forget ; Sky is not the Limit
+
 ![sr-71](https://user-images.githubusercontent.com/96126445/152688900-e0dd9dd4-18c5-435e-b524-15b0b28377cb.jpg)
 
 
