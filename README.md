@@ -24,7 +24,7 @@ or begin preparing for interviews and jobs as part of Holberton’s interview pr
 
 Dont forget ; Sky is not the Limit
 
-![sr-71](https://user-images.githubusercontent.com/96126445/152688900-e0dd9dd4-18c5-435e-b524-15b0b28377cb.jpg)
+![sr-71](https://user-images.githubusercontent.com/96126445/152688900-e0dd9dd4-18c5-435e-b524-15b0b28377cb.jpg)style ="width 400"
 
 
 
