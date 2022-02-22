@@ -10,9 +10,13 @@ Six of the women ‘computors’ were selected to be its first programmers. Amon
 
 
 
-          I 've started  my curriculum at the Holberton School Paris, France
+          I 've started  my curriculum at the Holberton School Paris, France since January 2022
 
- I am learning Foundations
+ I am learning Foundations in C language , 
+ I have built  WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery (Ecole Supérieure des Technologies Créatives, Paris)
+ I m passionate by TECHNOLOGIES since I am 10 years , so i decided to improve my skill sets to realize my dreams.
+ 
+
 The primary focus of Foundations is to achieve mastery of fundamental engineering concepts and become skilled in coding. 
 Professional Development will be a key supplement of this primary goal.
 
