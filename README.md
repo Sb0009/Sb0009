@@ -10,7 +10,7 @@ Six of the women ‘computors’ were selected to be its first programmers. Amon
 
 
 
-          I 've started  my curriculum at the Holberton School Paris, France since January 2022
+          I 've started  my curriculum at the Holberton School Paris, France in January 2022
 
  I am learning Foundations in C language , 
  I have built  WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery (Ecole Supérieure des Technologies Créatives, Paris)
