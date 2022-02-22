@@ -6,9 +6,7 @@
 - 📫 sihambadyine@gmail.com
 **
 
-
-Six of the women ‘computors’ were selected to be its first programmers. Among these six was Betty Holberton. "Betty had an amazing logical mind, and she solved more problems in her sleep than other people did awake " - Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
-
+### Six of the women ‘computors’ were selected to be its first programmers. Among these six was** Betty Holberton.** "Betty had an amazing logical mind, and she solved more problems in her sleep than other people did awake " - Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
 
 
 
