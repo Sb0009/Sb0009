@@ -1,11 +1,12 @@
-![NnNq](https://user-images.githubusercontent.com/96126445/157523019-cc12c0f9-0f27-4e7c-92cc-e013a73ec6d9.gif)
+
 
 ##  👋 Hi, I’m Siham Badyine
-- 👀 I’m interested about a professional internship 
+- 👀 I’m interested about a professional internship for September 2022  (3 months or 5 months )
 - 🌱 MY goal is to become a great software engineer 
 - 💞️ You Can join me at :
 - 📫 sihambadyine@gmail.com
 **
+![NnNq](https://user-images.githubusercontent.com/96126445/157523649-0ff53bf9-3342-40b6-9b3c-a98fbf113d63.gif)
 
 Six of the women ‘computors’ were selected to be its first programmers. Among these six was *Betty Holberton* "Betty had an amazing logical mind, and she solved more problems in her sleep than other people did awake " - Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
 
