@@ -1,3 +1,4 @@
+![NnNq](https://user-images.githubusercontent.com/96126445/157523019-cc12c0f9-0f27-4e7c-92cc-e013a73ec6d9.gif)
 
 ##  👋 Hi, I’m Siham Badyine
 - 👀 I’m interested about a professional internship 
@@ -23,8 +24,6 @@ Professional Development will be a key supplement of this primary goal.
 At the conclusion of Foundations, I will have acquired a strong foundation of technical knowledge from which I can either build upon with a Specialization
                                                               
                                                      
-
-![sr-71](https://user-images.githubusercontent.com/96126445/152688900-e0dd9dd4-18c5-435e-b524-15b0b28377cb.jpg)
 
 
 
