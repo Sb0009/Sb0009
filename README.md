@@ -6,7 +6,7 @@
 - 💞️ You Can join me at :
 - 📫 sihambadyine@gmail.com
 **
-![NnNq](https://user-images.githubusercontent.com/96126445/157523649-0ff53bf9-3342-40b6-9b3c-a98fbf113d63.gif)
+<div class="tenor-gif-embed" data-postid="15398525" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/extraterrestre-espace-voie-lactee-vaisseau-spaciale-ovni-gif-15398525">Extraterrestre Espace GIF</a>from <a href="https://tenor.com/search/extraterrestre-gifs">Extraterrestre GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Six of the women ‘computors’ were selected to be its first programmers. Among these six was *Betty Holberton* "Betty had an amazing logical mind, and she solved more problems in her sleep than other people did awake " - Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
 
