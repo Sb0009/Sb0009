@@ -8,7 +8,7 @@
 ![352](https://user-images.githubusercontent.com/96126445/157525441-208df01f-c73c-4ef8-9ec9-38518f0ecbf2.gif)
 
 
- -- Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
+ Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
 
 - I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
 
@@ -17,7 +17,7 @@
 
  
   
-                                                                                                                 
+   --------------------------                                                                                                              
 
 
  - Stack : PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
