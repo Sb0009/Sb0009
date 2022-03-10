@@ -20,7 +20,7 @@
                                                                                                                  
 
 
-  # I have built WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
+ - Stack : PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
  - (Ecole Supérieure des Technologies Créatives, Paris)
  
 Yours sincerly
