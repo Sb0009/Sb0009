@@ -15,15 +15,12 @@
   I 've started  my curriculum at the Holberton School Paris, France in January 2022
  
 
-The primary focus of Foundations is to achieve mastery of fundamental engineering concepts and become skilled in coding. 
-  Professional Development will be a key supplement of this primary goal.
-
-At the conclusion of Foundations, I will have acquired a strong foundation of technical knowledge from which I can either build upon with a Specialization .
-                                                              
-                                                     
+ 
+  
+                                                                                                                 
 
 
-I have built WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
+  # I have built WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
  - (Ecole Supérieure des Technologies Créatives, Paris)
  
 Yours sincerly
