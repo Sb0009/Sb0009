@@ -10,14 +10,9 @@
 
  Jean J. Bartik "Look like a girl, act like a lady, think like a man, and work like a dog." -Betty Holberton  💞️
 
+- I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
 
-
-          I 've started  my curriculum at the Holberton School Paris, France in January 2022
-
- I am learning Foundations in C language , 
- I have built  WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery (Ecole Supérieure des Technologies Créatives, Paris)
- 
- - I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
+  I 've started  my curriculum at the Holberton School Paris, France in January 2022
  
 
 The primary focus of Foundations is to achieve mastery of fundamental engineering concepts and become skilled in coding. 
@@ -27,5 +22,10 @@ At the conclusion of Foundations, I will have acquired a strong foundation of te
                                                               
                                                      
 
+
+I have built  WEB and WEB MOBILE projects in PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
+ - (Ecole Supérieure des Technologies Créatives, Paris)
+ 
+Yours sincerly
 
 
