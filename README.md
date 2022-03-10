@@ -8,7 +8,7 @@
 ![352](https://user-images.githubusercontent.com/96126445/157525441-208df01f-c73c-4ef8-9ec9-38518f0ecbf2.gif)
 
 <table><tr><td valign="top" width="50%">
- - Stack : PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
+ - Stack : PHP procedural and  POO, HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlog produits, Jira, Cérémonie quotidienne, évaluation des US stories <br>
  - (Ecole Supérieure des Technologies Créatives, Paris)
 
  </td></tr></table>
