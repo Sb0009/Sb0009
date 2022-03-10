@@ -12,7 +12,7 @@
  - (Ecole Supérieure des Technologies Créatives, Paris)
 
  </td></tr></table>
-<br> 
+
                                                                                                              
 
 
@@ -30,7 +30,7 @@
  
  
  
-Yours sincerly
+ <br> Yours sincerly
 
 
 
