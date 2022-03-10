@@ -15,9 +15,9 @@
   I 've started  my curriculum at the Holberton School Paris, France in January 2022
  
 
- 
-  
-   --------------------------                                                                                                              
+ </td></tr></table>
+<br> 
+                                                                                                             
 
 
  - Stack : PHP procedural Language and PHP POO, HTML 5, CSS, Javascript, Jquery 
