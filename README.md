@@ -27,7 +27,8 @@
  
  
  
- 
+ <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="siham-badyine-523a36230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/siham-badyine-523a36230?trk=profile-badge">Siham Badyine</a></div>
+              
  
  
  <br> Yours sincerly
