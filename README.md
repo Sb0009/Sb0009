@@ -12,8 +12,8 @@
 <details>
 <summary>Click here to know more about me :)</summary>
 
-<div align="left">
-<table><tr><td valign="top" width="50%">
+ <div align="center">
+ <table><tr><td valign="top" width="50%">
  - Stack : PHP procedural and  POO, HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlogs produits hiérarchisés en fonction du R.O.I , travail sur Jira,<br> Cérémonie quotidienne, instanciation des US stories  <br>
  - (Ecole Supérieure des Technologies Créatives, Paris) 2021
  
