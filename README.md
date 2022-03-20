@@ -2,7 +2,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">Hi, I’m Siham Badyine
 - I’m interested about a professional internship for September 2022  (3 months or 5 months )
 -  MY goal is to become a great software engineer 
--  ![divers_012](https://user-images.githubusercontent.com/96126445/159186672-815a55f0-95a0-4a3b-9a95-27e58de84199.gif)
+ ![divers_012](https://user-images.githubusercontent.com/96126445/159186672-815a55f0-95a0-4a3b-9a95-27e58de84199.gif)
 
  You Can join me at :
 - 📫 sihambadyine@gmail.com
