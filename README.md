@@ -10,7 +10,7 @@
 - 📫 sihambadyine@gmail.com
 ![352](https://user-images.githubusercontent.com/96126445/157525441-208df01f-c73c-4ef8-9ec9-38518f0ecbf2.gif)
 <details>
-<summary>Click here to know more about me :)</summary>
+- <summary>Click here to know more about me :)</summary>
 
  <div align="center">
  <table><tr><td valign="top" width="50%">
