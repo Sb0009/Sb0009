@@ -1,6 +1,7 @@
 
 
-##  👋 Hi, I’m Siham Badyine
+##  �
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">Hi, I’m Siham Badyine
 - 👀 I’m interested about a professional internship for September 2022  (3 months or 5 months )
 - 🌱 MY goal is to become a great software engineer 
 - 💞️ You Can join me at :
