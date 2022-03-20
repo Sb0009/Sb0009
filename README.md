@@ -13,7 +13,12 @@
 <table><tr><td valign="top" width="50%">
  - Stack : PHP procedural and  POO, HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlogs produits hiérarchisés en fonction du R.O.I , travail sur Jira,<br> Cérémonie quotidienne, instanciation des US stories  <br>
  - (Ecole Supérieure des Technologies Créatives, Paris) 2021
+ 
+- I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
 
+  I 've started  my curriculum at the Holberton School Paris, France in January 2022 ;   Betty Holberton  💞️
+ 
+ 
  </td></tr></table>
 
                                                                                                           
@@ -24,11 +29,7 @@
  
 
 
-- I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
 
-  I 've started  my curriculum at the Holberton School Paris, France in January 2022 ;   Betty Holberton  💞️
- 
- 
  
  <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="siham-badyine-523a36230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/siham-badyine-523a36230?trk=profile-badge">Siham Badyine</a></div>
               
