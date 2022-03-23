@@ -3,8 +3,8 @@
 
 ---
 
-  <p align=center>I’m interested about a professional internship for September 2022  (3 months or 5 months )
-  My goal is to become a great software engineer 
+  <p align=center>I’m interested about a professional internship in October 2022  / 3 months or 5 months 
+   software engineer 
  
  You Can join me at :  📫 sihambadyine@gmail.com 
 
