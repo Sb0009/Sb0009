@@ -1,11 +1,14 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
 
---
-- I’m interested about a professional internship for September 2022  (3 months or 5 months )
--  MY goal is to become a great software engineer 
+---
+
+  <p align=center>I’m interested about a professional internship for September 2022  (3 months or 5 months )
+  My goal is to become a great software engineer 
  
-- You Can join me at :  📫 sihambadyine@gmail.com
+ You Can join me at :  📫 sihambadyine@gmail.com 
+
+</p>
 
 <details>
  <summary>Click here to know more about me :)</summary>
