@@ -1,22 +1,22 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
 
----
+--
 - I’m interested about a professional internship for September 2022  (3 months or 5 months )
 -  MY goal is to become a great software engineer 
  
 - You Can join me at :  📫 sihambadyine@gmail.com
 
 <details>
-- <summary>Click here to know more about me :)</summary>
+ <summary>Click here to know more about me :)</summary>
 
  <div align="center">
  <table><tr><td valign="top" width="50%">
- - SKill : HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlogs produits 
+  SKill : HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlogs produits 
    travail sur Jira,<br> Cérémonie quotidienne, instanciation des US stories  <br>
- - (Ecole Supérieure des Technologies Créatives, Paris) 2021
+  (Ecole Supérieure des Technologies Créatives, Paris) 2021
  
-- I m passionate by TECHNOLOGIES since I am 10 years ,  i decided to improve my skill sets to realize my dreams.
+
 
   I 've started  my curriculum at the Holberton School Paris, France in January 2022 
  
