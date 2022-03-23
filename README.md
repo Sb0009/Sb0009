@@ -4,7 +4,7 @@
 ---
 
   <p align=center>I’m interested about a professional internship  <i> software engineer </i>
-	  in October 2022  / 3 months or 5 months 
+	  in October 2022 for 3 months or 5 months 
  
  
  You Can join me at :  📫 sihambadyine@gmail.com 
