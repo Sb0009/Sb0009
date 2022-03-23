@@ -36,7 +36,7 @@
        
  
  
- <br> Yours sincerly (❁´◡`❁)
+ <br>(❁´◡`❁)
 
 
 
