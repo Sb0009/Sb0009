@@ -4,7 +4,7 @@
 ---
 
   <p align=center>I’m interested about a professional internship  <i> software engineer </i>
-	  in October 2022 for 3 months or 5 months 
+	  in October 2022 <br>for 3 months or 5 months 
  
  
  You Can join me at :  📫 sihambadyine@gmail.com 
@@ -16,8 +16,7 @@
 
  <div align="center">
  <table><tr><td valign="top" width="50%">
-  SKill : HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> Projet en mode Agile : réalisation de Backlogs produits 
-   travail sur Jira,<br> Cérémonie quotidienne, instanciation des US stories  <br>
+  SKill : HTML 5, CSS, Javascript, Jquery, Mysql, MariaDB, LINUX OS  <br> 
   (Ecole Supérieure des Technologies Créatives, Paris) 2021
  
   I 've started  my curriculum at the Holberton School Paris, France in January 2022 
