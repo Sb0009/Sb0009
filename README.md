@@ -1,11 +1,7 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
 </p>
-<p align="center">
-<img src="![Blue Technology Lifestyle and Hobbies T-Shirt](https://user-images.githubusercontent.com/96126445/160299573-b736a81e-c682-44e8-b657-d9c2634c7e8a.png)
 
-" width="300">
-<p/>
 ---
 
   <p align=center>I’m interested about a professional internship  <i> software engineer >>fullstack </i>
