@@ -2,7 +2,7 @@
 	:anger: <i>H E L L O </i>
 </p>
 <p align="center">
-<img src="![Blue Technology Lifestyle and Hobbies T-Shirt](https://user-images.githubusercontent.com/96126445/160299486-55105536-4c4e-4bbb-87a8-17aec47dc5b8.png)
+<img src="https://user-images.githubusercontent.com/96126445/160299486-55105536-4c4e-4bbb-87a8-17aec47dc5b8.png
 " width="300">
 <p/>
 ---
