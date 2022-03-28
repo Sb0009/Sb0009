@@ -4,13 +4,13 @@
 
 ---
 
-  <p align=center>I’m interested about a professional internship  <i> software engineer >>fullstack </i>
+  <p align=center>🍏 I’m interested about a professional internship  <i> software engineer >>fullstack </i>
 	 Nov 2022 <br>for 3 months or 5 months 
 
  
 	  
 	  
- You Can join me at :  📫 sihambadyine@gmail.com 
+
 
 </p>
 
