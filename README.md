@@ -1,12 +1,12 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
-	
+	![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 
 
 ---
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+ 
   💬 Ask me about anything here.
 	  
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/siham-badyine)
