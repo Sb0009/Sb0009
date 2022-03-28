@@ -24,7 +24,9 @@
   💬 Ask me about anything here.
  
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="siham-b-523a36230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/siham-b-523a36230?trk=profile-badge">Siham B.</a></div>
-       
+ 
+	 ![Red Comic Bubble Name Tag](https://user-images.githubusercontent.com/96126445/160299304-b1446cf7-c42a-46b8-a4f8-81513f001a31.png)
+<h2 align="center">
 ### Spotify 🎧
 ![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
  
