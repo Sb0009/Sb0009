@@ -1,6 +1,6 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
-	![Quote](https://github-readme-quotes.herokuapp.com/quote)
+
 
 
 
@@ -21,6 +21,10 @@
  <summary>Click here to know more about me :)</summary>
 
  <div align="center">
+	 
+### Spotify 🎧
+![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
+
  <table><tr><td valign="top" width="50%">
 	 
   <br> I 've started  my curriculum at the Holberton School Paris, France in January 2022 
