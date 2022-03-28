@@ -41,6 +41,6 @@
  <br>
 
 ### Spotify 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
+![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
 
 (❁´◡`❁)
