@@ -26,7 +26,6 @@
  
  
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/siham-badyine)
 
 ### Spotify 🎧
 ![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
