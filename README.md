@@ -13,7 +13,9 @@
 	  
 
 
-</p>
+
+### Spotify 🎧
+![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
 
 <details>
  <summary>Click here to know more about me :)</summary>
@@ -27,8 +29,6 @@
  
 
 
-### Spotify 🎧
-![Rosalia](https://spotify-recently-played-readme.vercel.app/api?user=31s7q43tus2y5bvoo26ytdtdt5zm&unique={true|1|on|yes})
  
  </td></tr></table>
 
@@ -43,5 +43,4 @@
  
  
  
-&nbsp; <br> ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
