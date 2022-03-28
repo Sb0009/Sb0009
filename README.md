@@ -18,8 +18,8 @@
  <summary>Click here to know more about me :)</summary>
 
  <div align="center">
- <table><tr><td valign="top" width="50%">
-	 	 ![Red Comic Bubble Name Tag](https://user-images.githubusercontent.com/96126445/160299304-b1446cf7-c42a-46b8-a4f8-81513f001a31.png)
+ <table><tr><td valign="top" width="50">
+	 	[Red Comic Bubble Name Tag](https://user-images.githubusercontent.com/96126445/160299304-b1446cf7-c42a-46b8-a4f8-81513f001a31.png)
 <h2 align="center">
   <br> I 've started  my curriculum at the Holberton School Paris, France in January 2022 
  
