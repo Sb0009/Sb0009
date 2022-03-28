@@ -4,8 +4,8 @@
 
 ---
 
-  <p align=center>🍏 I’m interested about a professional internship  <i> software engineer >>fullstack </i>
-	 Nov 2022 <br>for 3 months or 5 months 
+  <p align=center> I’m interested about a professional internship  <i> software engineer >>fullstack </i>
+	 Nov 2022 <br>for 3 months 
 
  
 	  
