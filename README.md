@@ -7,9 +7,7 @@
 
 ---
 
-  <p align=center> I’m interested about a professional internship  <i> software engineer >>fullstack </i>
-	 Nov 2022 <br>for 3 months 
-
+ 
   💬 Ask me about anything here.
 	  
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/siham-badyine)
