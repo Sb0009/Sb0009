@@ -18,7 +18,7 @@
  <summary>Click here to know more about me :)</summary>
 
  <div align="center">
- <table><tr><td valign="top" width="100">
+ <table><tr><td valign="top" width="50%">
 	 
   <br> I 've started  my curriculum at the Holberton School Paris, France in January 2022 
  
