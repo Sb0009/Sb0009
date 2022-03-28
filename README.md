@@ -2,8 +2,7 @@
 	:anger: <i>H E L L O </i>
 	
 
-&nbsp; <br> ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-</p>
+
 
 ---
 
@@ -43,8 +42,6 @@
        
  
  
- <br>
-
-
-</p>
+ 
+&nbsp; <br> ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
