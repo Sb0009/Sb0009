@@ -2,7 +2,6 @@
 	:anger: <i>H E L L O </i>
 
 
-![matrix](https://user-images.githubusercontent.com/96126445/160933188-5cf0e187-50e9-44bc-835d-cf5a94ba4b86.gif)
 
 
 ---
