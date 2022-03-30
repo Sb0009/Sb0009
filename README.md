@@ -1,11 +1,11 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
 
-
-
-
-
+![SOLUTIONS (1)]
 (https://pluspng.com/submit_con.php?name=github-octocat-png--896.gif)
+
+
+
  
   💬 Ask me about anything here.
 	  
