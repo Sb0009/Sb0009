@@ -1,9 +1,6 @@
 <h2 align="center">
 	:anger: <i>H E L L O </i>
 
-![SOLUTIONS (1)]
-(https://pluspng.com/submit_con.php?name=github-octocat-png--896.gif)
-
 
 
  
@@ -31,4 +28,7 @@
 
  
  
+
+<p><img src="https://pluspng.com/img-png/github-octocat-png--896.gif" alt="the team with directrice Holberton School Toulouse" width="142px"></p> 
+
 
