@@ -4,7 +4,7 @@
 
 
  
-  💬 Ask me about anything here.
+  Ask me about anything here  💬
 	  
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/siham-badyine)
 	  
@@ -29,6 +29,6 @@
  
  
 
-<p><img src="https://pluspng.com/img-png/github-octocat-png--896.gif" alt="the team with directrice Holberton School Toulouse" width="142px"></p> 
+<p><img src="https://pluspng.com/img-png/github-octocat-png--896.gif" alt="github avatar" width="142px"></p> 
 
 
