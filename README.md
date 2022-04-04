@@ -5,7 +5,7 @@
 
 
  
- <p align="left"> Ask me about anything here  💬</p>
+ <p align="center"> Ask me about anything here  💬</p>
 	  
 	
 
