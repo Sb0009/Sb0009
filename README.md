@@ -36,7 +36,7 @@
 
 ### My Porfolio project is in Progress 👸💢
 * For my portfolio project, I will work with a peer on a mobile application.
-It’s an secret application for the moment,  built with swift and X
+a secret application for the moment,  built with swift and X
 We learned how to be organised to deliver a working MVC in a manner of a few weeks…
 
 
