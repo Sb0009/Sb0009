@@ -19,7 +19,8 @@
 	 
 
 
- <table><tr><td valign="top" width="50%"><br>I 've started  my curriculum at the Holberton School Paris, France in January 2022 for being a Great Software Engineer to solve problems and help people.
+ <table><tr><td valign="top" width="50%"><br>I 've started  my curriculum for being a Great Software Engineer to solve problems and help people.
+	 
   </td></tr></table></div>
   </details>
  
