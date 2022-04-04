@@ -1,5 +1,6 @@
 <h2 align="center">
-	:anger: <i>H E L L O </i> I'm Siham Badyine
+	:anger: <i>H E L L O , I'm Siham Badyine </i> 
+	
 
 
 
