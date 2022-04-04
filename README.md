@@ -1,6 +1,6 @@
-<h2 align="center">
-	<i>H E L L O , I'm Siham Badyine </i> 
-	
+<h1 align="center">
+	 
+	<h1 align="center"><i>H E L L O , I'm Siham Badyine </i></h1>
 
 
 
