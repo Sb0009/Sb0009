@@ -34,7 +34,7 @@
 
 * I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
 
-### My Porfolio project in Progress
+### My Porfolio project is in Progress 👸💢
 * For my portfolio project, I will work with a peer on a mobile application.
 It’s an secret application for the moment,  built with swift and X
 We learned how to be organised to deliver a working MVC in a manner of a few weeks…
