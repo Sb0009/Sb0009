@@ -20,8 +20,7 @@
  <div align="center">
 	
 
- <table><tr><td valign="top" width="50%"><br>I 've started  my curriculum for being a Great Software Engineer to solve problems and help people.
-	 
+ <table><tr><td valign="top" width="50%"><br>
 
 [![Siham Badyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sb0009)](https://github.com/Sb0009/github-readme-stats)
 
