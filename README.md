@@ -46,7 +46,7 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 #### My latest Medium articles:
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What happens when you ()](https://medium.com/@sihambadyine/what-happens-when-you-bf018a0bc1f4------2)	 
+- [What happens when you ()](https://medium.com/@sihambadyine/what-happens-when-you-bf018a0bc1f4)	 
 - [Claude Shannon turned dream into reality](https://medium.com/@sihambadyine/claude-shannon-turned-dream-into-reality-a8ee625f790c?source=rss-9894ca830433------2)
 - [The Power of Static libraries in C](https://towardsdev.com/the-power-of-static-libraries-in-c-992da4c71820?source=rss-9894ca830433------2)
 - [Day-0](https://medium.com/@sihambadyine/day-0-5e7e4d6a2644?source=rss-9894ca830433------2)
