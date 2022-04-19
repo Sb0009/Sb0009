@@ -38,8 +38,7 @@ a secret application for the moment,  built with swift and X
 We learned how to be organised to deliver a working MVC in a manner of a few weeks…
 
 
-#### If you want to reach out to me, you can message me on:
-  - [LinkedIn](https://www.linkedin.com/in/siham-badyine)
+
   
 
 #### My latest Medium articles:
