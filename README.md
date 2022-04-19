@@ -9,8 +9,7 @@
 	  
 	
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/siham-badyine)
-	  
+4330@holbertonschool.com
 
 
 
