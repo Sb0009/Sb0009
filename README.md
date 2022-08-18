@@ -6,10 +6,9 @@
 
  
  <p align="center"> Ask me about anything here  💬</p>
-	  
+	 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
 	
 
-4330@holbertonschool.com
 
 
 
