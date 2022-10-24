@@ -1,7 +1,5 @@
 <h1 align="center"> H E L L O , I'm Siham Badyine </h1>
-	 
-	
-https://github.com/users/Sb0009/achievements/quickdraw <p align="center"> Ask me about anything here  💬</p>
+<p align="center"> Ask me 💬</p>
 
 
 
